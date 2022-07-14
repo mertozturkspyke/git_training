@@ -1,1 +1,3 @@
 Additional test for commits
+
+* *Some additional comments*
